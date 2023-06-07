@@ -236,7 +236,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`, `is_admin`) VALUES
-(1, 'Altin', 'altin.brd@gmail.com', NULL, '$2y$10$liLoYkbJiZcHqWsf1Y9lCOLIsNuDz.anVV9.mi2zjnRRWJ0odwjO6', NULL, '2023-06-04 03:26:05', '2023-06-04 03:26:05', 1);
+(1, 'Altin', 'test@gmail.com', NULL, '$2y$10$liLoYkbJiZcHqWsf1Y9lCOLIsNuDz.anVV9.mi2zjnRRWJ0odwjO6', NULL, '2023-06-04 03:26:05', '2023-06-04 03:26:05', 1);
 
 -- --------------------------------------------------------
 
